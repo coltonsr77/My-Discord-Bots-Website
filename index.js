@@ -90,14 +90,5 @@ document.addEventListener("DOMContentLoaded", () => {
   };
   document.body.appendChild(inviteBtn);
 
-  // Fun footer
-  const footer = document.createElement("footer");
-  footer.textContent = "Made with ❤️ by coltonsr77 · Uzi Discord Bot Website";
-  footer.style.position = "fixed";
-  footer.style.bottom = "10px";
-  footer.style.width = "100%";
-  footer.style.textAlign = "center";
-  footer.style.color = "#7289da";
-  footer.style.fontFamily = "Montserrat, sans-serif";
-  document.body.appendChild(footer);
+
 });
