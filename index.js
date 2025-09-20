@@ -42,27 +42,5 @@ document.addEventListener("DOMContentLoaded", () => {
   }
   drawStars();
 
-  // Interactive Discord Invite Button
-  const inviteBtn = document.createElement("button");
-  inviteBtn.textContent = "Invite Uzi Bot";
-  inviteBtn.style.display = "block";
-  inviteBtn.style.margin = "2rem auto";
-  inviteBtn.style.padding = "1rem 2rem";
-  inviteBtn.style.fontSize = "1.2rem";
-  inviteBtn.style.background = "linear-gradient(90deg, #7289da, #99aab5)";
-  inviteBtn.style.color = "#fff";
-  inviteBtn.style.border = "none";
-  inviteBtn.style.borderRadius = "25px";
-  inviteBtn.style.cursor = "pointer";
-  inviteBtn.style.boxShadow = "0 2px 12px rgba(114,137,218,0.2)";
-  inviteBtn.onmouseover = () => {
-    inviteBtn.style.background = "linear-gradient(90deg, #99aab5, #7289da)";
-  };
-  inviteBtn.onmouseout = () => {
-    inviteBtn.style.background = "linear-gradient(90deg, #7289da, #99aab5)";
-  };
-  inviteBtn.onclick = () => {
-    window.open("https://discord.com/oauth2/authorize?client_id=1413852495687712812", "_blank");
-  };
-  document.body.appendChild(inviteBtn);
+  
 });
