@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", () => {
     inviteBtn.style.background = "linear-gradient(90deg, #7289da, #99aab5)";
   };
   inviteBtn.onclick = () => {
-    window.open("https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&scope=bot", "_blank");
+    window.open("https://discord.com/oauth2/authorize?client_id=1413852495687712812", "_blank");
   };
   document.body.appendChild(inviteBtn);
 });
