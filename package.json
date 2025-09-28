@@ -1,1 +1,16 @@
+{
+  "name": "My-Discord-Bots-Website",
+  "version": "1.0.0",
+  "description": "A short description of your project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "Coltonsr77",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
 
