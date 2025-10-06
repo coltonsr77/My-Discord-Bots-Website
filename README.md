@@ -2,10 +2,10 @@
 
 This website is for my Discord bots.
 
-Im Still Trying to Work on This Website.
+I'm Still Trying to Work on This Website.
 
-It Should be Done but Who Knows We Might have More Stuff to Add.
+It Should be Done, but Who Knows? We might have More Stuff to add.
 
-Im Taking a Break from Some of my Projects for now.
+I'm taking a Break from some of my Projects for now.
 
-UPDATE:PLEASE use the New Website: https://coltonsr77.pages.dev
+UPDATE: PLEASE use the New Website: https://coltonsr77.pages.dev
